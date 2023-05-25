@@ -1,0 +1,82 @@
+C:\Users\Mario\source\repos\Projet T_T\Projet T_T\obj\Debug\Projet T_T.csproj.AssemblyReference.cache
+C:\Users\Mario\source\repos\Projet T_T\Projet T_T\obj\Debug\Projet T_T.csproj.SuggestedBindingRedirects.cache
+C:\Users\Mario\source\repos\Projet T_T\Projet T_T\obj\Debug\Projet_T_T.Form1.resources
+C:\Users\Mario\source\repos\Projet T_T\Projet T_T\obj\Debug\Projet_T_T.Properties.Resources.resources
+C:\Users\Mario\source\repos\Projet T_T\Projet T_T\obj\Debug\Projet T_T.csproj.GenerateResource.cache
+C:\Users\Mario\source\repos\Projet T_T\Projet T_T\obj\Debug\Projet T_T.csproj.CoreCompileInputs.cache
+C:\Users\Mario\source\repos\Projet T_T\Projet T_T\bin\Debug\Projet T_T.exe.config
+C:\Users\Mario\source\repos\Projet T_T\Projet T_T\bin\Debug\Projet T_T.exe
+C:\Users\Mario\source\repos\Projet T_T\Projet T_T\bin\Debug\Projet T_T.pdb
+C:\Users\Mario\source\repos\Projet T_T\Projet T_T\obj\Debug\Projet T_T.exe
+C:\Users\Mario\source\repos\Projet T_T\Projet T_T\obj\Debug\Projet T_T.pdb
+C:\Users\Mario\source\repos\Projet T_T\Projet T_T\obj\Debug\Projet_T_T.LoginForm.resources
+C:\Users\Mario\source\repos\Projet T_T\Projet T_T\obj\Debug\Projet_T_T.App.resources
+C:\Users\Mario\source\repos\Projet T_T\Projet T_T\bin\Debug\EntityFramework.dll
+C:\Users\Mario\source\repos\Projet T_T\Projet T_T\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Mario\source\repos\Projet T_T\Projet T_T\bin\Debug\EntityFramework.xml
+C:\Users\Mario\source\repos\Projet T_T\Projet T_T\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Mario\source\repos\Projet T_T\Projet T_T\obj\Debug\Projet T_T.csproj.CopyComplete
+C:\Users\Mario\source\repos\Projet T_T\Projet T_T\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Mario\source\repos\Projet T_T\Projet T_T\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\Mario\source\repos\Projet T_T\Projet T_T\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Mario\source\repos\Projet T_T\Projet T_T\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Mario\source\repos\Projet T_T\Projet T_T\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Mario\source\repos\Projet T_T\Projet T_T\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Mario\source\repos\Projet T_T\Projet T_T\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\Mario\source\repos\Projet T_T\Projet T_T\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Mario\source\repos\Projet T_T\Projet T_T\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Mario\source\repos\Projet T_T\Projet T_T\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Mario\source\repos\Projet T_T\Projet T_T\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\Mario\source\repos\Projet T_T\Projet T_T\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\Mario\source\repos\Projet T_T\Projet T_T\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\Mario\source\repos\Projet T_T\Projet T_T\bin\Debug\System.Buffers.dll
+C:\Users\Mario\source\repos\Projet T_T\Projet T_T\bin\Debug\System.Collections.Immutable.dll
+C:\Users\Mario\source\repos\Projet T_T\Projet T_T\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\Mario\source\repos\Projet T_T\Projet T_T\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Mario\source\repos\Projet T_T\Projet T_T\bin\Debug\System.Memory.dll
+C:\Users\Mario\source\repos\Projet T_T\Projet T_T\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Mario\source\repos\Projet T_T\Projet T_T\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Mario\source\repos\Projet T_T\Projet T_T\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Mario\source\repos\Projet T_T\Projet T_T\bin\Debug\System.ValueTuple.dll
+C:\Users\Mario\source\repos\Projet T_T\Projet T_T\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Mario\source\repos\Projet T_T\Projet T_T\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\Mario\source\repos\Projet T_T\Projet T_T\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\Mario\source\repos\Projet T_T\Projet T_T\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\Mario\source\repos\Projet T_T\Projet T_T\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\Mario\source\repos\Projet T_T\Projet T_T\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\Mario\source\repos\Projet T_T\Projet T_T\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\Mario\source\repos\Projet T_T\Projet T_T\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\Mario\source\repos\Projet T_T\Projet T_T\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Mario\source\repos\Projet T_T\Projet T_T\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\Mario\source\repos\Projet T_T\Projet T_T\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Mario\source\repos\Projet T_T\Projet T_T\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\Mario\source\repos\Projet T_T\Projet T_T\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\Mario\source\repos\Projet T_T\Projet T_T\bin\Debug\System.Buffers.xml
+C:\Users\Mario\source\repos\Projet T_T\Projet T_T\bin\Debug\System.Collections.Immutable.xml
+C:\Users\Mario\source\repos\Projet T_T\Projet T_T\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Mario\source\repos\Projet T_T\Projet T_T\bin\Debug\System.Memory.xml
+C:\Users\Mario\source\repos\Projet T_T\Projet T_T\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Mario\source\repos\Projet T_T\Projet T_T\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Mario\source\repos\Projet T_T\Projet T_T\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Mario\source\repos\Projet T_T\Projet T_T\bin\Debug\System.ValueTuple.xml
+C:\Users\Mario\source\repos\Projet T_T\Projet T_T\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Mario\source\repos\Projet T_T\Projet T_T\bin\Debug\Google.Protobuf.dll
+C:\Users\Mario\source\repos\Projet T_T\Projet T_T\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Mario\source\repos\Projet T_T\Projet T_T\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Mario\source\repos\Projet T_T\Projet T_T\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Mario\source\repos\Projet T_T\Projet T_T\bin\Debug\MySql.Data.dll
+C:\Users\Mario\source\repos\Projet T_T\Projet T_T\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\Mario\source\repos\Projet T_T\Projet T_T\bin\Debug\Google.Protobuf.pdb
+C:\Users\Mario\source\repos\Projet T_T\Projet T_T\bin\Debug\Google.Protobuf.xml
+C:\Users\Mario\source\repos\Projet T_T\Projet T_T\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Mario\source\repos\Projet T_T\Projet T_T\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Mario\source\repos\Projet T_T\Projet T_T\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Mario\source\repos\Projet T_T\Projet T_T\bin\Debug\MySql.Data.xml
+C:\Users\Mario\source\repos\Projet T_T\Projet T_T\obj\Debug\Projet_T_T.Migrations.initialmigration.resources
+C:\Users\Mario\source\repos\Projet T_T\Projet T_T\obj\Debug\Projet_T_T.Migrations.initialmigration1.resources
+C:\Users\Mario\source\repos\Projet T_T\Projet T_T\bin\Debug\BCrypt.Net-Next.dll
+C:\Users\Mario\source\repos\Projet T_T\Projet T_T\bin\Debug\BCrypt.Net-Next.xml
+C:\Users\Mario\source\repos\Projet T_T\Projet T_T\obj\Debug\Projet_T_T.Migrations.initialmigration2.resources
+C:\Users\Mario\source\repos\Projet T_T\Projet T_T\obj\Debug\Projet_T_T.Migrations.initialmigration3.resources
+C:\Users\Mario\source\repos\Projet T_T\Projet T_T\obj\Debug\Projet_T_T.Migrations.initialmigration4.resources
+C:\Users\Mario\source\repos\Projet T_T\Projet T_T\obj\Debug\Projet_T_T.Migrations.initialmigration5.resources
